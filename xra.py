@@ -1,5 +1,5 @@
-defuser = "Xra"
-defkey = "Xra2"
+defuser = "Creza"
+defkey = "Creza was here"
 
 while (True):
     print("Hesabınız varmı (v/y)?")
